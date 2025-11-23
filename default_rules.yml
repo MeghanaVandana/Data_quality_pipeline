@@ -1,0 +1,28 @@
+default_rules:
+  numeric:
+    drop_nulls: false
+    fillna: mean
+    min: null
+    max: null
+    allow_negative: true
+
+  string:
+    drop_nulls: false
+    fillna: ""
+    max_length: 255
+    regex: null
+
+  categorical:
+    drop_nulls: false
+    allowed_values: null
+
+  datetime:
+    drop_nulls: false
+    format: auto
+
+ml:
+  enabled: true
+  contamination: 0.05
+
+pipeline:
+  fail_if_pass_rate_below: 30

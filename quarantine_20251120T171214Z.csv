@@ -1,0 +1,199 @@
+customer_id,first_name,last_name,age,country,state,email,failure_reason
+C00001,Olivia,Miller,74,UK,,o.miller@example.com,state: NULL not allowed
+C00002,Sophia,Smith,84,CAN,,s.smith@example.com,state: NULL not allowed
+C00003,Liam,Davis,23,UK,,l.davis@example.com,state: NULL not allowed
+C00006,Oliver,Jones,43,UK,,o.jones@example.com,state: NULL not allowed
+C00007,Noah,Smith,22,IND,,n.smith@example.com,state: NULL not allowed
+C00008,Elijah,Miller,62,UK,,e.miller@example.com,state: NULL not allowed
+C00010,Olivia,Davis,41,UK,,o.davis@example.com,state: NULL not allowed
+C00011,Emma,Brown,66,IND,,e.brown@example.com,state: NULL not allowed
+C00012,Liam,Brown,47,UK,,l.brown@example.com,state: NULL not allowed
+C00014,Sophia,Garcia,49,CAN,,s.garcia@example.com,state: NULL not allowed
+C00015,Emma,Davis,88,IND,,e.davis@example.com,state: NULL not allowed
+C00016,Sophia,Davis,65,IND,,s.davis@example.com,state: NULL not allowed
+C00018,Elijah,Davis,55,IND,,e.davis@example.com,state: NULL not allowed
+C00019,Oliver,Jones,26,CAN,,o.jones@example.com,state: NULL not allowed
+C00020,Emma,Miller,56,UK,,e.miller@example.com,state: NULL not allowed
+C00021,Elijah,Brown,29,UK,,e.brown@example.com,state: NULL not allowed
+C00022,Olivia,Jones,24,CAN,,o.jones@example.com,state: NULL not allowed
+C00023,Oliver,Garcia,82,IND,,o.garcia@example.com,state: NULL not allowed
+C00024,Oliver,Miller,57,UK,,o.miller@example.com,state: NULL not allowed
+C00025,Oliver,Garcia,19,UK,,o.garcia@example.com,state: NULL not allowed
+C00027,Ava,Smith,47,CAN,,a.smith@example.com,state: NULL not allowed
+C00028,Elijah,Jones,47,CAN,,e.jones@example.com,state: NULL not allowed
+C00029,Noah,Smith,29,UK,,n.smith@example.com,state: NULL not allowed
+C00030,Oliver,Jones,34,IND,,o.jones@example.com,state: NULL not allowed
+C00031,Ava,Davis,58,IND,,a.davis@example.com,state: NULL not allowed
+C00034,Elijah,Brown,34,CAN,,e.brown@example.com,state: NULL not allowed
+C00036,Emma,Garcia,25,CAN,,e.garcia@example.com,state: NULL not allowed
+C00038,Ava,Jones,77,IND,,a.jones@example.com,state: NULL not allowed
+C00039,Liam,Garcia,85,UK,,l.garcia@example.com,state: NULL not allowed
+C00040,Ava,Davis,63,CAN,,a.davis@example.com,state: NULL not allowed
+C00041,Emma,Davis,78,IND,,e.davis@example.com,state: NULL not allowed
+C00042,Liam,Miller,21,UK,,l.miller@example.com,state: NULL not allowed
+C00043,Emma,Jones,46,CAN,,e.jones@example.com,state: NULL not allowed
+C00044,Noah,Brown,55,UK,,n.brown@example.com,state: NULL not allowed
+C00045,Elijah,Brown,47,UK,,e.brown@example.com,state: NULL not allowed
+C00047,Liam,Brown,89,IND,,l.brown@example.com,state: NULL not allowed
+C00048,Ava,Smith,52,IND,,a.smith@example.com,state: NULL not allowed
+C00049,Oliver,Smith,60,CAN,,o.smith@example.com,state: NULL not allowed
+C00050,Sophia,Smith,45,CAN,,s.smith@example.com,state: NULL not allowed
+C00051,Ava,Smith,65,UK,,a.smith@example.com,state: NULL not allowed
+C00052,Noah,Davis,50,CAN,,n.davis@example.com,state: NULL not allowed
+C00054,Emma,Miller,26,CAN,,e.miller@example.com,state: NULL not allowed
+C00055,Olivia,Brown,39,UK,,o.brown@example.com,state: NULL not allowed
+C00056,Sophia,Smith,64,CAN,,s.smith@example.com,state: NULL not allowed
+C00057,Olivia,Smith,43,UK,,o.smith@example.com,state: NULL not allowed
+C00058,Ava,Miller,60,CAN,,a.miller@example.com,state: NULL not allowed
+C00059,Emma,Smith,71,UK,,e.smith@example.com,state: NULL not allowed
+C00061,Emma,Jones,36,CAN,,e.jones@example.com,state: NULL not allowed
+C00062,Elijah,Garcia,19,CAN,,e.garcia@example.com,state: NULL not allowed
+C00063,Ava,Miller,60,CAN,,a.miller@example.com,state: NULL not allowed
+C00064,Olivia,Jones,57,UK,,o.jones@example.com,state: NULL not allowed
+C00065,Liam,Jones,71,CAN,,l.jones@example.com,state: NULL not allowed
+C00067,Olivia,Brown,31,UK,,o.brown@example.com,state: NULL not allowed
+C00068,Oliver,Brown,21,UK,,o.brown@example.com,state: NULL not allowed
+C00069,Sophia,Davis,72,IND,,s.davis@example.com,state: NULL not allowed
+C00070,Sophia,Smith,20,CAN,,s.smith@example.com,state: NULL not allowed
+C00071,Elijah,Jones,87,IND,,e.jones@example.com,state: NULL not allowed
+C00072,Noah,Davis,35,CAN,,n.davis@example.com,state: NULL not allowed
+C00073,Liam,Garcia,69,UK,,l.garcia@example.com,state: NULL not allowed
+C00074,Sophia,Smith,70,UK,,s.smith@example.com,state: NULL not allowed
+C00075,Sophia,Davis,40,UK,,s.davis@example.com,state: NULL not allowed
+C00076,Liam,Brown,56,UK,,l.brown@example.com,state: NULL not allowed
+C00077,Ava,Smith,51,IND,,a.smith@example.com,state: NULL not allowed
+C00079,Liam,Garcia,41,CAN,,l.garcia@example.com,state: NULL not allowed
+C00080,Emma,Miller,80,UK,,e.miller@example.com,state: NULL not allowed
+C00081,Sophia,Jones,36,UK,,s.jones@example.com,state: NULL not allowed
+C00083,Olivia,Brown,89,CAN,,o.brown@example.com,state: NULL not allowed
+C00084,Oliver,Smith,63,IND,,o.smith@example.com,state: NULL not allowed
+C00085,Oliver,Smith,71,CAN,,o.smith@example.com,state: NULL not allowed
+C00087,Olivia,Miller,36,UK,,o.miller@example.com,state: NULL not allowed
+C00088,Liam,Brown,83,CAN,,l.brown@example.com,state: NULL not allowed
+C00089,Oliver,Miller,82,CAN,,o.miller@example.com,state: NULL not allowed
+C00090,Emma,Smith,42,IND,,e.smith@example.com,state: NULL not allowed
+C00092,Oliver,Jones,60,IND,,o.jones@example.com,state: NULL not allowed
+C00093,Elijah,Garcia,28,UK,,e.garcia@example.com,state: NULL not allowed
+C00094,Emma,Jones,18,CAN,,e.jones@example.com,state: NULL not allowed
+C00095,Noah,Jones,62,CAN,,n.jones@example.com,state: NULL not allowed
+C00096,Olivia,Davis,40,UK,,o.davis@example.com,state: NULL not allowed
+C00097,Sophia,Davis,22,UK,,s.davis@example.com,state: NULL not allowed
+C00098,Noah,Davis,80,CAN,,n.davis@example.com,state: NULL not allowed
+C00100,Sophia,Garcia,38,UK,,s.garcia@example.com,state: NULL not allowed
+C00102,Olivia,Jones,74,CAN,,o.jones@example.com,state: NULL not allowed
+C00105,Sophia,Brown,85,UK,,s.brown@example.com,state: NULL not allowed
+C00106,Olivia,Garcia,77,IND,,o.garcia@example.com,state: NULL not allowed
+C00107,Emma,Brown,31,CAN,,e.brown@example.com,state: NULL not allowed
+C00108,Emma,Brown,33,UK,,e.brown@example.com,state: NULL not allowed
+C00109,Emma,Garcia,47,CAN,,e.garcia@example.com,state: NULL not allowed
+C00110,Ava,Davis,49,CAN,,a.davis@example.com,state: NULL not allowed
+C00111,Oliver,Brown,25,CAN,,o.brown@example.com,state: NULL not allowed
+C00113,Elijah,Brown,37,UK,,e.brown@example.com,state: NULL not allowed
+C00114,Sophia,Garcia,22,IND,,s.garcia@example.com,state: NULL not allowed
+C00115,Liam,Brown,22,CAN,,l.brown@example.com,state: NULL not allowed
+C00117,Emma,Miller,58,IND,,e.miller@example.com,state: NULL not allowed
+C00118,Noah,Jones,36,CAN,,n.jones@example.com,state: NULL not allowed
+C00119,Sophia,Davis,71,CAN,,s.davis@example.com,state: NULL not allowed
+C00120,Ava,Smith,46,IND,,a.smith@example.com,state: NULL not allowed
+C00121,Sophia,Garcia,73,CAN,,s.garcia@example.com,state: NULL not allowed
+C00122,Elijah,Miller,24,IND,,e.miller@example.com,state: NULL not allowed
+C00125,Ava,Smith,55,IND,,a.smith@example.com,state: NULL not allowed
+C00126,Ava,Smith,19,CAN,,a.smith@example.com,state: NULL not allowed
+C00127,Liam,Garcia,40,IND,,l.garcia@example.com,state: NULL not allowed
+C00128,Liam,Davis,23,IND,,l.davis@example.com,state: NULL not allowed
+C00129,Olivia,Brown,30,UK,,o.brown@example.com,state: NULL not allowed
+C00130,Olivia,Garcia,76,CAN,,o.garcia@example.com,state: NULL not allowed
+C00132,Ava,Miller,86,UK,,a.miller@example.com,state: NULL not allowed
+C00133,Olivia,Brown,69,IND,,o.brown@example.com,state: NULL not allowed
+C00135,Liam,Garcia,47,IND,,l.garcia@example.com,state: NULL not allowed
+C00136,Oliver,Jones,69,IND,,o.jones@example.com,state: NULL not allowed
+C00137,Elijah,Miller,83,UK,,e.miller@example.com,state: NULL not allowed
+C00138,Liam,Davis,60,UK,,l.davis@example.com,state: NULL not allowed
+C00139,Noah,Garcia,22,CAN,,n.garcia@example.com,state: NULL not allowed
+C00140,Liam,Davis,66,UK,,l.davis@example.com,state: NULL not allowed
+C00143,Emma,Garcia,28,CAN,,e.garcia@example.com,state: NULL not allowed
+C00144,Sophia,Miller,51,UK,,s.miller@example.com,state: NULL not allowed
+C00145,Ava,Garcia,34,IND,,a.garcia@example.com,state: NULL not allowed
+C00147,Elijah,Brown,76,CAN,,e.brown@example.com,state: NULL not allowed
+C00148,Noah,Miller,54,IND,,n.miller@example.com,state: NULL not allowed
+C00150,Emma,Jones,29,IND,,e.jones@example.com,state: NULL not allowed
+C00152,Liam,Smith,88,CAN,,l.smith@example.com,state: NULL not allowed
+C00153,Noah,Jones,84,UK,,n.jones@example.com,state: NULL not allowed
+C00154,Elijah,Smith,53,UK,,e.smith@example.com,state: NULL not allowed
+C00156,Olivia,Jones,54,CAN,,o.jones@example.com,state: NULL not allowed
+C00159,Elijah,Miller,83,UK,,e.miller@example.com,state: NULL not allowed
+C00160,Sophia,Miller,69,IND,,s.miller@example.com,state: NULL not allowed
+C00161,Olivia,Jones,49,CAN,,o.jones@example.com,state: NULL not allowed
+C00162,Elijah,Garcia,84,IND,,e.garcia@example.com,state: NULL not allowed
+C00164,Ava,Davis,54,CAN,,a.davis@example.com,state: NULL not allowed
+C00165,Liam,Smith,37,IND,,l.smith@example.com,state: NULL not allowed
+C00166,Noah,Brown,32,UK,,n.brown@example.com,state: NULL not allowed
+C00167,Liam,Smith,66,UK,,l.smith@example.com,state: NULL not allowed
+C00168,Elijah,Brown,47,UK,,e.brown@example.com,state: NULL not allowed
+C00169,Liam,Garcia,66,IND,,l.garcia@example.com,state: NULL not allowed
+C00170,Liam,Davis,89,UK,,l.davis@example.com,state: NULL not allowed
+C00171,Sophia,Garcia,41,CAN,,s.garcia@example.com,state: NULL not allowed
+C00172,Olivia,Miller,27,UK,,o.miller@example.com,state: NULL not allowed
+C00176,Olivia,Davis,57,CAN,,o.davis@example.com,state: NULL not allowed
+C00178,Ava,Brown,53,CAN,,a.brown@example.com,state: NULL not allowed
+C00179,Liam,Miller,30,UK,,l.miller@example.com,state: NULL not allowed
+C00180,Liam,Brown,81,UK,,l.brown@example.com,state: NULL not allowed
+C00182,Ava,Davis,43,CAN,,a.davis@example.com,state: NULL not allowed
+C00183,Liam,Brown,88,CAN,,l.brown@example.com,state: NULL not allowed
+C00184,Olivia,Garcia,54,CAN,,o.garcia@example.com,state: NULL not allowed
+C00185,Oliver,Miller,21,UK,,o.miller@example.com,state: NULL not allowed
+C00187,Oliver,Smith,35,UK,,o.smith@example.com,state: NULL not allowed
+C00188,Ava,Garcia,49,UK,,a.garcia@example.com,state: NULL not allowed
+C00190,Sophia,Brown,84,CAN,,s.brown@example.com,state: NULL not allowed
+C00192,Olivia,Davis,81,IND,,o.davis@example.com,state: NULL not allowed
+C00193,Olivia,Smith,22,IND,,o.smith@example.com,state: NULL not allowed
+C00194,Elijah,Miller,20,CAN,,e.miller@example.com,state: NULL not allowed
+C00195,Elijah,Davis,74,IND,,e.davis@example.com,state: NULL not allowed
+C00196,Oliver,Miller,58,CAN,,o.miller@example.com,state: NULL not allowed
+C00199,Noah,Davis,52,CAN,,n.davis@example.com,state: NULL not allowed
+C00200,Emma,Davis,52,CAN,,e.davis@example.com,state: NULL not allowed
+C00004,Ava,Brown,69,USA,CA,a.brown@example.com,
+C00005,Sophia,Davis,21,USA,FL,s.davis@example.com,
+C00009,Emma,Miller,52,USA,CA,e.miller@example.com,
+C00013,Liam,Jones,40,USA,CA,l.jones@example.com,
+C00017,Oliver,Garcia,83,USA,CA,o.garcia@example.com,
+C00026,Noah,Jones,28,USA,NY,n.jones@example.com,
+C00032,Emma,Miller,36,USA,TX,e.miller@example.com,
+C00033,Noah,Miller,52,USA,CA,n.miller@example.com,
+C00035,Elijah,Jones,80,USA,NY,e.jones@example.com,
+C00037,Elijah,Davis,52,USA,TX,e.davis@example.com,
+C00046,Liam,Brown,57,USA,CA,l.brown@example.com,
+C00053,Sophia,Smith,70,USA,TX,s.smith@example.com,
+C00060,Olivia,Jones,72,USA,TX,o.jones@example.com,
+C00066,Emma,Miller,20,USA,TX,e.miller@example.com,
+C00078,Oliver,Brown,74,USA,CA,o.brown@example.com,
+C00082,Oliver,Brown,28,USA,CA,o.brown@example.com,
+C00086,Liam,Brown,75,USA,FL,l.brown@example.com,
+C00091,Liam,Davis,19,USA,TX,l.davis@example.com,
+C00099,Elijah,Davis,39,USA,FL,e.davis@example.com,
+C00101,Oliver,Davis,23,USA,NY,o.davis@example.com,
+C00103,Ava,Davis,68,USA,CA,a.davis@example.com,
+C00104,Oliver,Brown,38,USA,TX,o.brown@example.com,
+C00112,Olivia,Jones,73,USA,CA,o.jones@example.com,
+C00116,Liam,Brown,55,USA,NY,l.brown@example.com,
+C00123,Elijah,Miller,80,USA,FL,e.miller@example.com,
+C00124,Liam,Brown,49,USA,TX,l.brown@example.com,
+C00131,Elijah,Miller,18,USA,TX,e.miller@example.com,
+C00134,Sophia,Davis,18,USA,FL,s.davis@example.com,
+C00141,Ava,Miller,59,USA,FL,a.miller@example.com,
+C00142,Olivia,Garcia,25,USA,CA,o.garcia@example.com,
+C00146,Liam,Brown,32,USA,FL,l.brown@example.com,
+C00149,Oliver,Miller,66,USA,CA,o.miller@example.com,
+C00151,Elijah,Garcia,72,USA,FL,e.garcia@example.com,
+C00157,Oliver,Davis,80,USA,NY,o.davis@example.com,
+C00158,Elijah,Brown,24,USA,TX,e.brown@example.com,
+C00163,Ava,Davis,77,USA,TX,a.davis@example.com,
+C00173,Sophia,Miller,81,USA,FL,s.miller@example.com,
+C00174,Oliver,Garcia,82,USA,TX,o.garcia@example.com,
+C00175,Ava,Brown,63,USA,CA,a.brown@example.com,
+C00181,Emma,Jones,83,USA,CA,e.jones@example.com,
+C00186,Noah,Jones,71,USA,FL,n.jones@example.com,
+C00189,Elijah,Miller,62,USA,TX,e.miller@example.com,
+C00191,Ava,Miller,43,USA,NY,a.miller@example.com,
+C00197,Liam,Jones,71,USA,FL,l.jones@example.com,
+C00198,Elijah,Brown,66,USA,TX,e.brown@example.com,

@@ -1,0 +1,17 @@
+pandas
+numpy
+pyyaml
+scikit-learn
+streamlit
+mysql-connector-python
+python-dateutil
+python-dotenv
+matplotlib
+seaborn
+pytest
+plotly
+pandas>=2.0
+numpy
+pyyaml
+scikit-learn
+faker
